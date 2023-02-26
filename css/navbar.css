@@ -3,8 +3,8 @@
 nav{
     height: 7vh;
     width: 100vw;
-    background-color: #131418;
-    color: #f2f5f7;
+    background-color: #CEF4FF;
+    color: #000000;
     letter-spacing: 1px;
     font-weight: 300;
     box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
@@ -39,7 +39,7 @@ nav{
     margin: 0 0.7vw;
 }
 .nav-links li a:hover {
-    color: #F5F5F5;
+    color: rgb(239, 172, 46);
 }
 .nav-links li {
     position: relative;
@@ -50,7 +50,7 @@ nav{
     top:26px;
     height: 2px;
     width: 0%;
-    background-color: #F5F5F5;
+    background-color: rgb(239, 172, 46);
     position: absolute;
     transition: all ease-in-out 750ms;
     margin: 0 0 0 10%;
