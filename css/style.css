@@ -10,16 +10,16 @@
 
 .feedback img {
     object-fit: contain;
-    height: 60px;
-    width: 60px;
+    height: 40px;
+    width: 40px;
 }
 
 #mybutton {
     position: fixed;
     bottom: 30px;
-    right: 30px;
-    height: 80px;
-    width: 80px;
+    right: 50px;
+    height: 60px;
+    width: 60px;
     border-radius: 50%;
     background-color: white;
     display: flex;
